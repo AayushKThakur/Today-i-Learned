@@ -12,13 +12,13 @@
 - 🎯 Responsive layout with clean design
 - 🧩 Component-based structure using modern React practices
 - ☁️ Fully deployed on Netlify
+- 🗄️ Facts and votes are stored in supabase.
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 [View the app on Netlify](https://your-netlify-site.netlify.app)  
-_(replace this link with your actual Netlify URL)_
+🔗 [View the app on Netlify](https://today-i-learned-akt.netlify.app/)
 
 ---
 
@@ -27,6 +27,7 @@ _(replace this link with your actual Netlify URL)_
 - React (via Create React App)
 - Custom CSS Grid and Flexbox
 - Git & GitHub for version control
+- Supabase for storing facts and votes
 - Netlify for deployment
 
 ---
@@ -54,7 +55,8 @@ Builds the app for production to the `build/` folder.
 
 ## 📄 License & Credit
 
-This project was built as part of a Udemy React course by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/).  
+This project was built as part of a Udemy React course by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/).
+
 Customized and maintained by [Aayush Thakur](https://github.com/AayushKThakur).
 
 ---
